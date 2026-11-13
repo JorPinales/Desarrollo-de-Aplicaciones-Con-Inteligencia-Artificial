@@ -1,0 +1,251 @@
+texto,intencion
+hola,saludo
+hola hortiamiga,saludo
+buenos dias,saludo
+buenas tardes,saludo
+buenas noches,saludo
+que tal,saludo
+como estas,saludo
+saludos hortiamiga,saludo
+hola necesito ayuda,saludo
+buen dia,saludo
+hola amiga del huerto,saludo
+que gusto saludarte,saludo
+hola quiero hacerte una pregunta,saludo
+hola puedes orientarme,saludo
+buenas necesito informacion,saludo
+hola tengo una duda,saludo
+que onda hortiamiga,saludo
+hola asistente,saludo
+saludos,saludo
+hola me ayudas,saludo
+buen dia hortiamiga,saludo
+hola quiero consultarte algo,saludo
+buenas como va todo,saludo
+hola vengo por orientacion,saludo
+hola podemos comenzar,saludo
+quiero iniciar un huerto,iniciar_huerto
+como empiezo mi huerto,iniciar_huerto
+que necesito para comenzar un huerto,iniciar_huerto
+primeros pasos para cultivar en casa,iniciar_huerto
+quiero hacer un huerto urbano,iniciar_huerto
+como puedo crear un huerto desde cero,iniciar_huerto
+nunca he cultivado y quiero empezar,iniciar_huerto
+ayudame a planear mi primer huerto,iniciar_huerto
+que materiales necesito para un huerto,iniciar_huerto
+quiero comenzar a sembrar en casa,iniciar_huerto
+como preparo un huerto pequeno,iniciar_huerto
+que debo comprar para iniciar,iniciar_huerto
+quiero tener hortalizas en casa,iniciar_huerto
+explicame como arrancar un huerto,iniciar_huerto
+por donde comienzo a cultivar,iniciar_huerto
+me interesa aprender a sembrar,iniciar_huerto
+quiero instalar un huerto en mi departamento,iniciar_huerto
+como organizo mi primer huerto,iniciar_huerto
+dame una guia para comenzar a cultivar,iniciar_huerto
+que necesito antes de sembrar,iniciar_huerto
+soy principiante en huertos urbanos,iniciar_huerto
+quiero cultivar mis propios alimentos,iniciar_huerto
+como inicio un huerto en poco espacio,iniciar_huerto
+que hago primero para tener un huerto,iniciar_huerto
+quiero aprender horticultura urbana,iniciar_huerto
+que puedo sembrar en mi balcon,recomendar_hortaliza
+recomiendame una hortaliza,recomendar_hortaliza
+que cultivo cabe en una maceta,recomendar_hortaliza
+que puedo plantar en poco espacio,recomendar_hortaliza
+cultivos para una azotea,recomendar_hortaliza
+que hortaliza es facil para principiantes,recomendar_hortaliza
+que puedo cultivar junto a la ventana,recomendar_hortaliza
+recomiendame plantas para un patio pequeno,recomendar_hortaliza
+cuales hortalizas funcionan en recipientes,recomendar_hortaliza
+que cultivo me conviene en un balcon con sol,recomendar_hortaliza
+quiero una planta comestible facil,recomendar_hortaliza
+que hortalizas puedo poner en macetas,recomendar_hortaliza
+dame opciones para cultivar en casa,recomendar_hortaliza
+que puedo plantar si tengo poco lugar,recomendar_hortaliza
+cual cultivo recomiendas para empezar,recomendar_hortaliza
+hortalizas adecuadas para una azotea,recomendar_hortaliza
+que puedo sembrar en jardineras,recomendar_hortaliza
+recomienda cultivos de crecimiento rapido,recomendar_hortaliza
+que hortaliza se adapta a un patio,recomendar_hortaliza
+quiero elegir un cultivo para mi ventana,recomendar_hortaliza
+cuales plantas comestibles ocupan poco espacio,recomendar_hortaliza
+que cultivo urbano es mas sencillo,recomendar_hortaliza
+ayudame a escoger una hortaliza,recomendar_hortaliza
+que sembrarias en una maceta grande,recomendar_hortaliza
+busco una hortaliza resistente para comenzar,recomendar_hortaliza
+cuando se siembra el jitomate,consultar_temporada
+en que temporada planto rabano,consultar_temporada
+fecha para cultivar lechuga,consultar_temporada
+puedo sembrar en invierno,consultar_temporada
+mejor epoca para el cilantro,consultar_temporada
+cuando conviene plantar chile,consultar_temporada
+en que mes puedo sembrar zanahoria,consultar_temporada
+cual es la temporada de la albahaca,consultar_temporada
+cuando debo comenzar con la cebolla,consultar_temporada
+es buena la primavera para sembrar,consultar_temporada
+que puedo plantar durante el otono,consultar_temporada
+puedo cultivar jitomate en verano,consultar_temporada
+cuando inicia la temporada de siembra,consultar_temporada
+en que epoca crece mejor la lechuga,consultar_temporada
+cual es el mejor momento para plantar rabano,consultar_temporada
+se puede sembrar cilantro en diciembre,consultar_temporada
+que hortalizas se plantan en primavera,consultar_temporada
+cuando puedo germinar semillas de chile,consultar_temporada
+en que estacion siembro zanahorias,consultar_temporada
+es momento de sembrar albahaca,consultar_temporada
+que cultivo corresponde a esta temporada,consultar_temporada
+cuando es recomendable plantar menta,consultar_temporada
+puedo sembrar cebolla ahora,consultar_temporada
+dime la epoca adecuada para el jitomate,consultar_temporada
+calendario de siembra para lechuga,consultar_temporada
+cada cuanto riego el jitomate,consultar_riego
+cuanta agua necesita la lechuga,consultar_riego
+cual es la frecuencia de riego,consultar_riego
+debo regar diario,consultar_riego
+como regar mi albahaca,consultar_riego
+cada cuantos dias se riega el chile,consultar_riego
+estoy regando demasiado mi planta,consultar_riego
+como se si mi hortaliza necesita agua,consultar_riego
+cuanto riego requiere el cilantro,consultar_riego
+la tierra esta seca debo regar,consultar_riego
+a que hora conviene regar,consultar_riego
+cuantas veces por semana riego la zanahoria,consultar_riego
+el rabano necesita mucha agua,consultar_riego
+como evito encharcar la maceta,consultar_riego
+que cantidad de agua uso para el jitomate,consultar_riego
+puedo regar las plantas por la noche,consultar_riego
+como mantengo humeda la lechuga,consultar_riego
+mi albahaca necesita riego frecuente,consultar_riego
+cuando debo volver a regar,consultar_riego
+como revisar la humedad del sustrato,consultar_riego
+riego recomendado para cebolla,consultar_riego
+el chile se riega todos los dias,consultar_riego
+necesito una rutina de riego,consultar_riego
+cada cuanto pongo agua a la menta,consultar_riego
+como ajusto el riego cuando hace calor,consultar_riego
+cuanto sol necesita el chile,consultar_iluminacion
+horas de luz para cilantro,consultar_iluminacion
+puede estar en sombra,consultar_iluminacion
+necesita sol directo,consultar_iluminacion
+sirve la semisombra,consultar_iluminacion
+cuantas horas de sol requiere el jitomate,consultar_iluminacion
+la lechuga puede recibir sol todo el dia,consultar_iluminacion
+mi balcon tiene poca luz que hago,consultar_iluminacion
+donde coloco la albahaca para que reciba luz,consultar_iluminacion
+la ventana es suficiente para cultivar,consultar_iluminacion
+que pasa si mi planta recibe demasiado sol,consultar_iluminacion
+el rabano crece en semisombra,consultar_iluminacion
+necesito mover las macetas al sol,consultar_iluminacion
+cuanta iluminacion necesita la zanahoria,consultar_iluminacion
+el cilantro tolera la sombra,consultar_iluminacion
+mi patio solo tiene cuatro horas de luz,consultar_iluminacion
+cual es la mejor orientacion para el huerto,consultar_iluminacion
+puedo cultivar con luz indirecta,consultar_iluminacion
+el sol de la tarde quema las hojas,consultar_iluminacion
+cuantas horas de luz son recomendables,consultar_iluminacion
+la menta necesita pleno sol,consultar_iluminacion
+el jitomate puede vivir en sombra,consultar_iluminacion
+como mido la luz de mi balcon,consultar_iluminacion
+que cultivos requieren menos sol,consultar_iluminacion
+necesidades de iluminacion de la cebolla,consultar_iluminacion
+que tierra necesita la zanahoria,consultar_sustrato
+sustrato para jitomate,consultar_sustrato
+que mezcla uso en la maceta,consultar_sustrato
+necesita composta,consultar_sustrato
+como preparar la tierra,consultar_sustrato
+que sustrato conviene para la lechuga,consultar_sustrato
+puedo usar tierra del jardin,consultar_sustrato
+como mejorar el drenaje de una maceta,consultar_sustrato
+que proporcion de composta debo agregar,consultar_sustrato
+la tierra esta muy compacta,consultar_sustrato
+que mezcla necesita el chile,consultar_sustrato
+como preparo sustrato para albahaca,consultar_sustrato
+puedo reutilizar la tierra de otra planta,consultar_sustrato
+que tipo de abono uso en el huerto,consultar_sustrato
+el rabano requiere tierra profunda,consultar_sustrato
+como aireo el sustrato,consultar_sustrato
+que material sirve para drenar,consultar_sustrato
+mi maceta retiene demasiada agua,consultar_sustrato
+cual es la mejor tierra para cilantro,consultar_sustrato
+necesito perlita en el sustrato,consultar_sustrato
+como se si el sustrato es adecuado,consultar_sustrato
+que mezcla organica puedo preparar,consultar_sustrato
+sustrato recomendado para cebolla,consultar_sustrato
+la composta sustituye a la tierra,consultar_sustrato
+como fertilizo la tierra de las hortalizas,consultar_sustrato
+mi planta tiene hojas amarillas,consultar_problema
+aparecieron manchas en las hojas,consultar_problema
+mi lechuga esta marchita,consultar_problema
+hay pulgones en el chile,consultar_problema
+la planta crece muy lento,consultar_problema
+encontre mosca blanca en el jitomate,consultar_problema
+mi albahaca tiene cochinilla,consultar_problema
+las hojas se estan secando,consultar_problema
+la planta se ve debil,consultar_problema
+que hago con las manchas cafes,consultar_problema
+las hojas del jitomate se enrollan,consultar_problema
+mi cilantro no esta creciendo,consultar_problema
+la lechuga se marchito de repente,consultar_problema
+hay insectos debajo de las hojas,consultar_problema
+mi planta tiene puntos blancos,consultar_problema
+las hojas presentan bordes quemados,consultar_problema
+el tallo de mi planta esta caido,consultar_problema
+como elimino los pulgones,consultar_problema
+mi cultivo tiene una plaga,consultar_problema
+las hojas nuevas salen deformes,consultar_problema
+mi jitomate muestra manchas oscuras,consultar_problema
+la albahaca perdio muchas hojas,consultar_problema
+veo una capa blanca sobre la planta,consultar_problema
+por que mi hortaliza no crece,consultar_problema
+el follaje esta cambiando de color,consultar_problema
+gracias,despedida
+hasta luego,despedida
+adios,despedida
+eso es todo,despedida
+nos vemos,despedida
+muchas gracias por la ayuda,despedida
+hasta pronto hortiamiga,despedida
+terminamos por hoy,despedida
+ya no tengo mas preguntas,despedida
+me ayudaste mucho gracias,despedida
+cierro la consulta,despedida
+gracias hablamos despues,despedida
+eso seria todo por ahora,despedida
+me despido,despedida
+que tengas buen dia,despedida
+continuamos otro dia,despedida
+gracias por orientarme,despedida
+listo ya termine,despedida
+hasta la proxima,despedida
+agradezco tus consejos,despedida
+nos vemos luego,despedida
+finalizar conversacion,despedida
+ya quedo claro gracias,despedida
+adios y gracias,despedida
+con eso termino mi consulta,despedida
+como cambio mi contrasena,fallback
+quien gano el partido de futbol,fallback
+cual es el precio del dolar,fallback
+recomiendame una pelicula,fallback
+como configuro mi correo electronico,fallback
+que clima hara manana,fallback
+ayudame con mi tarea de matematicas,fallback
+donde puedo comprar un telefono,fallback
+cual es la capital de francia,fallback
+quiero reservar un vuelo,fallback
+como preparo una pizza,fallback
+cuentame un chiste,fallback
+que musica me recomiendas,fallback
+necesito soporte para mi computadora,fallback
+cuando juega mi equipo favorito,fallback
+como solicito una constancia escolar,fallback
+quiero pagar mi colegiatura,fallback
+dime las noticias del dia,fallback
+como llego al aeropuerto,fallback
+cual es la mejor serie de television,fallback
+puedes traducir este documento,fallback
+como recupero un archivo borrado,fallback
+quiero comprar boletos para un concierto,fallback
+que hora es en japon,fallback
+necesito una receta de pastel,fallback
