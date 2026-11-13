@@ -262,8 +262,11 @@ La instalación inicial incluye `importlib_resources` para evitar problemas de c
 ## ✍️ Autor
 
 **Nombre:** Jorge Pinales
+
 **Matrícula:** 7292050
+
 **Institución:** Universidad Tecmilenio  
+
 **Materia:** Desarrollo de Aplicaciones con Inteligencia Artificial  
 
 ## 📚 Referencias
